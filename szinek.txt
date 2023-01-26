@@ -4,5 +4,4 @@ fekete
 zöld
 lila
 citromsárga
-barna
-narancssárga
+fehér
