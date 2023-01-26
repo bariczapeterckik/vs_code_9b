@@ -3,5 +3,6 @@ kék
 fekete
 zöld
 lila
+citromsárga
 fehér
 narancssárga
